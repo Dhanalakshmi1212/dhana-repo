@@ -7,7 +7,11 @@ public class SalesClass {
 		for(int i : arr) {
 			System.out.println(i);
 		}
-	
+		
+		for(int i=1;i<10;i++) {
+			System.out.println(i);
+		}
+	System.out.println("Done");
 	}
 
 }
